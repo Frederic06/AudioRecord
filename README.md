@@ -6,6 +6,9 @@ AudioRecord
 - Records are widely configurable (time, audio/manual, graphical type).
 - Uses AudioKit framework, CoreData, Delegate Pattern, MVVM
 
-![alt text](https://drive.google.com/file/d/1hmGS6uKce5pdENnOPxz0RIbwTp5-yiUB/view?usp=sharing)
+
+![Alt text](Audio_demo/IMG_5560.png?raw=true "Optional Title")
+![Alt text](Audio_demo/IMG_5561.png?raw=true "Optional Title")
+
 
 
